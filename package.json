@@ -1,0 +1,14 @@
+{
+  "name": "image-resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Varela",
+  "license": "MIT",
+  "dependencies": {
+    "easyimage": "^2.1.0"
+  }
+}
